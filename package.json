@@ -1,0 +1,23 @@
+{
+  "name": "sbotify",
+  "version": "1.0.0",
+  "description": "Music chatbot.",
+  "main": "app.js",
+  "dependencies": {
+    "cli-color": "^1.4.0",
+    "dotenv": "^7.0.0",
+    "musicmatch": "^0.3.2",
+    "nodemon": "^1.18.10",
+    "unirest": "^0.6.0",
+    "xregexp": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Ilyess Aggour",
+  "license": "ISC"
+}
