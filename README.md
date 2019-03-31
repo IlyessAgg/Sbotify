@@ -33,7 +33,7 @@ Your assistant to search your favorite songs and artists !
 </code></pre>
 
 ## Usage
-![usage](./imgs/demo.jpeg)
+![usage](./imgs/demo.jpg)
 
 ```
 > Hello Bot !
