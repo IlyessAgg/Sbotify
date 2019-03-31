@@ -1,5 +1,5 @@
 # Sbotify
-Your assistant to search your favorite artists ! 
+Your assistant to search your favorite songs and artists ! 
 
 ![weather](http://wallpaperswide.com/download/lets_make_music-wallpaper-1366x768.jpg)
 
